@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sixdimensions.coe.util</groupId>
 	<artifactId>ab-parser</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 
 	<name>Apache Benchmark Parser</name>
 	<description>Parses Apache Benchmark report files into a CSV.</description>
@@ -29,7 +29,7 @@
 		<url>git@github.com:SixDimensions/ab-parser.git</url>
 		<developerConnection>scm:git:git@github.com:SixDimensions/ab-parser.git</developerConnection>
 		<connection>scm:git:git@github.com:SixDimensions/ab-parser.git</connection>
-    <tag>HEAD</tag>
+    <tag>ab-parser-0.1.0</tag>
   </scm>
 
 	<distributionManagement>
