@@ -2,8 +2,14 @@
 
 This utility parses the values out of an Apache Benchmark report into a CSV file.
 
-Usage:
+## Download
 
-    java -jar ab-parser.jar ab-file-dir report.csv
+Download the jar [here](https://github.com/SixDimensions/ab-parser/releases/download/ab-parser-0.1.0/ab-parser-0.1.0-jar-with-dependencies.jar).
+
+## Usage
+
+Run it with the format:
+
+    java -jar ab-parser.jar [source] [target csv]
     
 The source can either be a directory containing Apache Benchmark report files or a single Apache Benchmark report file.
